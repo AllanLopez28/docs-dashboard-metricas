@@ -13,4 +13,4 @@ En la siguiente tabla se detallan las rutas habilitadas en el módulo implementa
 | `/api/health`          | `GET` | Verifica que el servicio en Go esté activo. |
 
 ## Arquitectura
-![Diagrama de Arquitectura](img/arquitectura.jpg)
+![Diagrama de Arquitectura](img/arquitectura.png)
