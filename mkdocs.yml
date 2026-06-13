@@ -1,0 +1,15 @@
+site_name: Documentación del Dashboard de Métricas
+theme:
+  name: material
+  language: es
+
+markdown_extensions:
+  - admonition
+  - pymdownx.superfences
+  - pymdownx.tabbed:
+      alternate_style: true
+
+nav:
+  - Inicio: index.md
+  - Módulo Frontend: frontend.md
+  - Módulo Backend: backend.md
